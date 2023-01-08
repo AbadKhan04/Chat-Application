@@ -1,0 +1,18 @@
+{
+  "name": "project_np",
+  "version": "1.0.0",
+  "description": "chat app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon serve"
+  },
+  "author": "Sadia_Abad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^9.15.0",
+    "moment": "^2.29.4",
+    "socket.io": "^4.5.3"
+  }
+}
